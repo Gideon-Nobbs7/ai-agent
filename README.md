@@ -58,7 +58,7 @@ python database.py
 ### 4. Use the AI-Agent
 After creating your products table, you can interact with the AI agent by running:
 ```bash
-python database.py
+python ai-agent.py
 ```
 Enter prompts related to the product queries (eg.,
 "What is the price of the Samsung phone?" or "What phone can I buy with a budget of 700?")
